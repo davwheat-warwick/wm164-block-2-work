@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.strings": "plist",
+    "*.plist": "plist",
+    "cmath": "cpp",
+    "cstdlib": "cpp",
+    "xstring": "cpp",
+    "tuple": "cpp"
+  }
+}

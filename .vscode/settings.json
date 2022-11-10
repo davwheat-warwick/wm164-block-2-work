@@ -5,6 +5,7 @@
     "cmath": "cpp",
     "cstdlib": "cpp",
     "xstring": "cpp",
-    "tuple": "cpp"
+    "tuple": "cpp",
+    "iostream": "cpp"
   }
 }
